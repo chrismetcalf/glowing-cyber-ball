@@ -1,0 +1,3 @@
+The Arduino end result of a question I asked on Slashdot a million years ago:
+
+http://ask.slashdot.org/story/03/03/18/035223/Building-Your-Own-Glowing-Cyber-Balls
